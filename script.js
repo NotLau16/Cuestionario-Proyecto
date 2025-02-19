@@ -268,6 +268,240 @@ const questions = [
             "Que el materialismo eliminativo postula dos sustancias, mientras que el dualismo postula una."
         ],
         correctAnswer: 0
+    },
+    {     
+        question: "¿Qué es la 'consciencia nuclear' según Damasio?",
+        options: [
+            "La forma más compleja de consciencia, que incluye el self autobiográfico.",
+            "La forma más sencilla de consciencia, que proporciona una sensación de self en el momento presente.",
+            "Un estado de consciencia que solo ocurre durante el sueño."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es el 'proto-self' según Damasio?",
+        options: [
+            "La parte consciente del cerebro que controla las emociones.",
+            "Una colección de dispositivos encefálicos que gobiernan la vida del organismo.",
+            "Un concepto filosófico sin base biológica."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'intencionalidad' en la fenomenología?",
+        options: [
+            "La capacidad de la mente para procesar información.",
+            "La direccionalidad de la conciencia hacia un objeto.",
+            "La relación entre la mente y el cerebro."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué propone la 'teoría enactiva' de la percepción?",
+        options: [
+            "Que la percepción es una representación interna del mundo.",
+            "Que la percepción es una implicación corporal directa con el mundo.",
+            "Que la percepción es un proceso pasivo de recepción de información."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'autoconciencia pre-reflexiva' según los fenomenólogos?",
+        options: [
+            "Un estado de conciencia que requiere reflexión y análisis.",
+            "Una forma de autoconciencia que es intrínseca a la experiencia consciente.",
+            "Un proceso de introspección que convierte la experiencia en un objeto."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'intencionalidad de horizonte' según Husserl?",
+        options: [
+            "La capacidad de la mente para representar objetos ausentes.",
+            "La relación entre la mente y el cerebro.",
+            "La capacidad de la conciencia para trascender el perfil presente de un objeto."
+        ],
+        correctAnswer: 2
+    },
+    {
+        question: "¿Qué es la 'teoría del marcador somático' según Damasio?",
+        options: [
+            "Una teoría que explica cómo las emociones influyen en la toma de decisiones.",
+            "Una teoría que reduce las emociones a procesos neuronales.",
+            "Una teoría que niega la influencia de las emociones en la racionalidad."
+        ],
+        correctAnswer: 0
+    },
+    {
+        question: "¿Qué es la 'intencionalidad' según Brentano?",
+        options: [
+            "La capacidad de la mente para procesar información.",
+            "La direccionalidad de los fenómenos mentales hacia un objeto.",
+            "La relación entre la mente y el cerebro."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'conciencia ampliada' según Damasio?",
+        options: [
+            "La forma más sencilla de consciencia, que proporciona una sensación de self en el momento presente.",
+            "La forma más compleja de consciencia, que sitúa al individuo en su historia personal.",
+            "Un estado de consciencia que solo ocurre durante el sueño."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'intencionalidad' en la filosofía de Husserl?",
+        options: [
+            "La capacidad de la mente para procesar información.",
+            "La direccionalidad de la conciencia hacia un objeto.",
+            "La relación entre la mente y el cerebro."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'teoría enactiva' de la percepción según Alva Noë?",
+        options: [
+            "Que la percepción es una representación interna del mundo.",
+            "Que la percepción es una implicación corporal directa con el mundo.",
+            "Que la percepción es un proceso pasivo de recepción de información."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'autoconciencia reflexiva' según los fenomenólogos?",
+        options: [
+            "Un estado de conciencia que requiere reflexión y análisis.",
+            "Una forma de autoconciencia que es intrínseca a la experiencia consciente.",
+            "Un proceso de introspección que convierte la experiencia en un objeto."
+        ],
+        correctAnswer: 2
+    },
+    {
+        question: "¿Qué es la 'intencionalidad de horizonte' según Husserl?",
+        options: [
+            "La capacidad de la mente para representar objetos ausentes.",
+            "La relación entre la mente y el cerebro.",
+            "La capacidad de la conciencia para trascender el perfil presente de un objeto."
+        ],
+        correctAnswer: 2
+    },
+    {
+        question: "¿Qué es la 'teoría del marcador somático' según Damasio?",
+        options: [
+            "Una teoría que explica cómo las emociones influyen en la toma de decisiones.",
+            "Una teoría que reduce las emociones a procesos neuronales.",
+            "Una teoría que niega la influencia de las emociones en la racionalidad."
+        ],
+        correctAnswer: 0
+    },
+    {
+        question: "¿Qué es la 'intencionalidad' según Brentano?",
+        options: [
+            "La capacidad de la mente para procesar información.",
+            "La direccionalidad de los fenómenos mentales hacia un objeto.",
+            "La relación entre la mente y el cerebro."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'conciencia ampliada' según Damasio?",
+        options: [
+            "La forma más sencilla de consciencia, que proporciona una sensación de self en el momento presente.",
+            "La forma más compleja de consciencia, que sitúa al individuo en su historia personal.",
+            "Un estado de consciencia que solo ocurre durante el sueño."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'intencionalidad' en la filosofía de Husserl?",
+        options: [
+            "La capacidad de la mente para procesar información.",
+            "La direccionalidad de la conciencia hacia un objeto.",
+            "La relación entre la mente y el cerebro."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'teoría enactiva' de la percepción según Alva Noë?",
+        options: [
+            "Que la percepción es una representación interna del mundo.",
+            "Que la percepción es una implicación corporal directa con el mundo.",
+            "Que la percepción es un proceso pasivo de recepción de información."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'autoconciencia reflexiva' según los fenomenólogos?",
+        options: [
+            "Un estado de conciencia que requiere reflexión y análisis.",
+            "Una forma de autoconciencia que es intrínseca a la experiencia consciente.",
+            "Un proceso de introspección que convierte la experiencia en un objeto."
+        ],
+        correctAnswer: 2
+    },
+    {
+        question: "¿Qué es la 'intencionalidad de horizonte' según Husserl?",
+        options: [
+            "La capacidad de la mente para representar objetos ausentes.",
+            "La relación entre la mente y el cerebro.",
+            "La capacidad de la conciencia para trascender el perfil presente de un objeto."
+        ],
+        correctAnswer: 2
+    },
+    {
+        question: "¿Qué es la 'teoría del marcador somático' según Damasio?",
+        options: [
+            "Una teoría que explica cómo las emociones influyen en la toma de decisiones.",
+            "Una teoría que reduce las emociones a procesos neuronales.",
+            "Una teoría que niega la influencia de las emociones en la racionalidad."
+        ],
+        correctAnswer: 0
+    },
+    {
+        question: "¿Qué es la 'intencionalidad' según Brentano?",
+        options: [
+            "La capacidad de la mente para procesar información.",
+            "La direccionalidad de los fenómenos mentales hacia un objeto.",
+            "La relación entre la mente y el cerebro."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'conciencia ampliada' según Damasio?",
+        options: [
+            "La forma más sencilla de consciencia, que proporciona una sensación de self en el momento presente.",
+            "La forma más compleja de consciencia, que sitúa al individuo en su historia personal.",
+            "Un estado de consciencia que solo ocurre durante el sueño."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'intencionalidad' en la filosofía de Husserl?",
+        options: [
+            "La capacidad de la mente para procesar información.",
+            "La direccionalidad de la conciencia hacia un objeto.",
+            "La relación entre la mente y el cerebro."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'teoría enactiva' de la percepción según Alva Noë?",
+        options: [
+            "Que la percepción es una representación interna del mundo.",
+            "Que la percepción es una implicación corporal directa con el mundo.",
+            "Que la percepción es un proceso pasivo de recepción de información."
+        ],
+        correctAnswer: 1
+    },
+    {
+        question: "¿Qué es la 'autoconciencia reflexiva' según los fenomenólogos?",
+        options: [
+            "Un estado de conciencia que requiere reflexión y análisis.",
+            "Una forma de autoconciencia que es intrínseca a la experiencia consciente.",
+            "Un proceso de introspección que convierte la experiencia en un objeto."
+        ],
+        correctAnswer: 2
     }
 ];
 let currentQuestionIndex = 0;
