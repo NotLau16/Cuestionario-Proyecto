@@ -291,11 +291,11 @@ function loadQuestion() {
 function checkAnswer(selectedIndex) {
     const currentQuestion = questions[currentQuestionIndex];
     if (selectedIndex === currentQuestion.correctAnswer) {
-        feedbackElement.textContent = "Correcto";
+        feedbackElement.textContent = "Correcto amor, te ganaste un besito";
         feedbackElement.style.color = "green";
         score++;
     } else {
-        feedbackElement.textContent = "Mal mi amor";
+        feedbackElement.textContent = "Mal mi amor, te perdiste un besito";
         feedbackElement.style.color = "red";
     }
     optionsElements.forEach((option, index) => {
