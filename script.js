@@ -278,7 +278,13 @@ const optionsElements = document.querySelectorAll(".option");
 const feedbackElement = document.getElementById("feedback");
 const nextButton = document.getElementById("next-button");
 
+function getRandomQuestionIndex() {
+    return Math.floor(Math.random() * questions.length);
+}
+
 function loadQuestion() {
+    // Selecciona una pregunta aleatoria
+    currentQuestionIndex = getRandomQuestionIndex();
     const currentQuestion = questions[currentQuestionIndex];
     questionElement.textContent = currentQuestion.question;
     optionsElements.forEach((option, index) => {
@@ -310,7 +316,8 @@ function checkAnswer(selectedIndex) {
 }
 
 function nextQuestion() {
-    currentQuestionIndex++;
+    // Selecciona una nueva pregunta aleatoria
+    currentQuestionIndex = getRandomQuestionIndex();
     if (currentQuestionIndex < questions.length) {
         loadQuestion();
         optionsElements.forEach(option => {
@@ -325,5 +332,5 @@ function nextQuestion() {
     }
 }
 
-// Cargar la primera pregunta al iniciar
+// Cargar una pregunta aleatoria al iniciar
 loadQuestion();
